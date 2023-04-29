@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Work in Lazada 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/laz.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
