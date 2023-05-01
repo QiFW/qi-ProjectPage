@@ -9,7 +9,7 @@
 
 ---
 [Garena](/pdf/sample_presentation.pdf)
-<img src="images/Gscope.jpeg?raw=true"/>
+<img src="images/Gascope.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
