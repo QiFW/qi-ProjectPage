@@ -2,14 +2,14 @@
 
 ---
 
-### Work in Lazada 
+### Scope Tree
 
-[Project 1 Title](/sample_page)
+[Lazada](/sample_page)
 <img src="images/Lscope.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Garena](/pdf/sample_presentation.pdf)
+<img src="images/Gscope.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
