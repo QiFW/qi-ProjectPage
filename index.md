@@ -5,11 +5,11 @@
 ---
 ## Scope Tree
 
-[Lazada](/sample_page)
+[Lazada](https://en.wikipedia.org/wiki/Lazada)
 <img src="images/Lscope.jpeg?raw=true"/>
 
 
-[SEA--Garena](/pdf/sample_presentation.pdf)
+[SEA--Garena](https://en.wikipedia.org/wiki/Garena)
 <img src="images/Gascope.jpeg?raw=true"/>
 
 ---
