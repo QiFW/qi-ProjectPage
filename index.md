@@ -13,7 +13,7 @@
 
 ---
 ### Sample Analysis
-<img src="images/Gascope.jpeg?raw=true"/>
+<img src="images/Qi_project.jpg?raw=true"/>
 
 
 
