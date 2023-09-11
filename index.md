@@ -9,7 +9,7 @@
 <img src="images/Lscope.jpeg?raw=true"/>
 
 
-[Garena](/pdf/sample_presentation.pdf)
+[Sea-Garena](/pdf/sample_presentation.pdf)
 <img src="images/Gascope.jpeg?raw=true"/>
 
 ---
