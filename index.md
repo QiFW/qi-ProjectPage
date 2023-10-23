@@ -14,8 +14,11 @@
 
 ---
 ## Sample Analysis
+### Expand New User Base for Paid Ads
 <img src="images/Qi_project.jpg?raw=true"/>
+
 ### Machine Learning Based User Segmentation - Evaluation of Operation Performance
+<img src="images/Machine_learning.jpeg?raw=true"/>
 
 
 
