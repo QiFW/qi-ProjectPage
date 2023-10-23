@@ -15,6 +15,8 @@
 ---
 ## Sample Analysis
 <img src="images/Qi_project.jpg?raw=true"/>
+### Machine Learning Based User Segmentation - Evaluation of Operation Performance
+
 
 
 
