@@ -20,7 +20,7 @@
 ### Machine Learning Based User Segmentation - Evaluation of Operation Performance
 <img src="images/Machine_learning.jpeg?raw=true"/>
 
-### A/B test for Voucher Strategy
+### A/B Test for Voucher Strategy
 <img src="images/AB_test.jpeg?raw=true"/>
 
 
