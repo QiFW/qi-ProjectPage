@@ -6,7 +6,7 @@
 ## Scope Tree
 
 [Starhub](https://en.wikipedia.org/wiki/StarHub)
-<img src="images/Lscope.jpeg?raw=true"/>
+<img src="images/starhub_scope.png?raw=true"/>
 
 [Lazada](https://en.wikipedia.org/wiki/Lazada)
 <img src="images/Lscope.jpeg?raw=true"/>
