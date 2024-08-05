@@ -24,8 +24,9 @@
 <img src="images/AB_test.jpeg?raw=true"/>
 
 ### Tableau Dashboard for Football Event Sales
-<img src="images/AB_test.jpeg?raw=true"/>
+<img src="images/euro_venn.png?raw=true"/>
 
-
+### Tableau Dashboard for Revenue KPI Scorecard
+<img src="images/score_card?raw=true"/>
 
 
