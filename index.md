@@ -23,6 +23,9 @@
 ### A/B Test for Voucher Strategy
 <img src="images/AB_test.jpeg?raw=true"/>
 
+### Tableau Dashboard for Football Event Sales
+<img src="images/AB_test.jpeg?raw=true"/>
+
 
 
 
