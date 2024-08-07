@@ -21,12 +21,8 @@
 ### Game Industry
 <img src="images/Gerana_metrics.png?raw=true"/>
 
-[Lazada](https://en.wikipedia.org/wiki/Lazada)
-<img src="images/Lscope.jpeg?raw=true"/>
-
-
-[SEA--Garena](https://en.wikipedia.org/wiki/Garena)
-<img src="images/Gascope.jpeg?raw=true"/>
+### E-commerce, New User Growth
+<img src="images/lazada_metrics.png?raw=true"/>
 
 ---
 ## Sample Analysis
