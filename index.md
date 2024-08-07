@@ -16,6 +16,19 @@
 <img src="images/Gascope.jpeg?raw=true"/>
 
 ---
+## Business Indicator System
+
+[Starhub](https://en.wikipedia.org/wiki/StarHub)
+<img src="images/starhub_scope.png?raw=true"/>
+
+[Lazada](https://en.wikipedia.org/wiki/Lazada)
+<img src="images/Lscope.jpeg?raw=true"/>
+
+
+[SEA--Garena](https://en.wikipedia.org/wiki/Garena)
+<img src="images/Gascope.jpeg?raw=true"/>
+
+---
 ## Sample Analysis
 ### Expand New User Base for Paid Ads
 <img src="images/Qi_project.jpg?raw=true"/>
