@@ -18,8 +18,8 @@
 ---
 ## Business Indicator System
 
-[Starhub](https://en.wikipedia.org/wiki/StarHub)
-<img src="images/starhub_scope.png?raw=true"/>
+[Game Industry]
+<img src="images/Gerana_metrics.png?raw=true"/>
 
 [Lazada](https://en.wikipedia.org/wiki/Lazada)
 <img src="images/Lscope.jpeg?raw=true"/>
