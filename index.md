@@ -18,11 +18,11 @@
 ---
 ## Business Indicator System
 
-### Game Industry
-<img src="images/Gerana_metrics.png?raw=true"/>
-
 ### E-commerce, New User Growth
 <img src="images/lazada_metrics.png?raw=true"/>
+
+### Game Industry
+<img src="images/Gerana_metrics.png?raw=true"/>
 
 ---
 ## Sample Analysis
