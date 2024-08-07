@@ -18,7 +18,7 @@
 ---
 ## Business Indicator System
 
-[Game Industry]
+### Game Industry
 <img src="images/Gerana_metrics.png?raw=true"/>
 
 [Lazada](https://en.wikipedia.org/wiki/Lazada)
