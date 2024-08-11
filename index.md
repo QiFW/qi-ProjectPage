@@ -41,4 +41,5 @@
 ### Tableau Dashboard for Revenue KPI Scorecard
 <img src="images/score_card.png?raw=true"/>
 
-
+### Power BI Dashboard for Telco Churn Analysis
+<img src="images/telco_pbi.png?raw=true"/>
