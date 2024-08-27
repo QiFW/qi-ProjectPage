@@ -45,3 +45,6 @@
 
 ### Power BI Dashboard for Telco Churn Analysis
 <img src="images/telco_pbi4.png?raw=true"/>
+
+### Power BI Dashboard for Sales Analysis
+<img src="images/Sales_Dashboard.png?raw=true"/>
