@@ -5,7 +5,7 @@
 ---
 ## Scope Tree
 [Lumens](https://lumensgroup.com/)
-<img src="images/lumens_scope.jpeg?raw=true"/>
+<img src="images/lumens_scope_1.jpeg?raw=true"/>
 
 [Starhub](https://en.wikipedia.org/wiki/StarHub)
 <img src="images/starhub_scope.png?raw=true"/>
