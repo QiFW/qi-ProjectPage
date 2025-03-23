@@ -50,3 +50,7 @@
 
 ### Power BI Dashboard for Sales Analysis
 <img src="images/Sales_Dashboard.png?raw=true"/>
+---
+## Data Pipeline
+### Data Pipeline Vehicle Leasing Revenue Tracker
+<img src="images/Data_pipeline.jpeg?raw=true"/>
