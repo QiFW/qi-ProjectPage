@@ -54,4 +54,4 @@
 ---
 ## Data Pipeline Development
 ### Data Pipeline for Vehicle Leasing Revenue Tracker
-<img src="images/Data_pipeline.jpeg?raw=true"/>
+<img src="images/Data_pipeline1.jpeg?raw=true"/>
