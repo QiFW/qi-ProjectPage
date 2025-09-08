@@ -1,6 +1,6 @@
 # Portfolio
 
-[View My LinkedIn Profile](www.linkedin.com/in/elly-qi-liu-01612a75)
+[View My LinkedIn Profile](https://www.linkedin.com/in/elly-qi-liu-01612a75)
 
 ---
 ## Scope Tree
